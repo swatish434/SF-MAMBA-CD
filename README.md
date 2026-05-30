@@ -1,7 +1,7 @@
 # SF-MambaCD: Spatial and Frequency Aware VMamba for Accurate Mining Change Detection
 
 <p align="center">
-  <img src="SF_Mamba_111.png" width="100%" alt="SF-MambaCD Architecture"/>
+  <img src="SF_Mamba_111.png.png" width="100%" alt="SF-MambaCD Architecture"/>
 </p>
 
 <p align="center">
